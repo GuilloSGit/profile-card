@@ -1,12 +1,18 @@
-# Profile - card
+# Tarjeta para perfil - Reutilizable
 
-###############################################################################
-##   Este es un trabajo para el curso de HTML de Udemy por Dorian Desing.    ##
-##                                                                           ##
-##   Una tarjeta sencilla, hecha con HTML y CSS (sin animaciones)            ##
-##                                                                           ##
-###############################################################################
+## Reto de Front End Mentor.
 
-Para verlo, haz click aquí ---> https://guillosgit.github.io/profile-card/
+### Una tarjeta sencilla, hecha con HTML, CSS y JS (sin animaciones)
 
-Guillermo Andrada
+¿Qué hace que esto sea útil?
+
+- Estructura sencilla
+- Código legible
+- Fácil de recomponer estilos
+- Personalizable
+
+Para verlo en el navegador, haz click<a href="https://guillosgit.github.io/profile-card/"> aquí &#10031;</a>
+<br>
+Para ver el código o clonarlo, haz click<a href="https://github.com/GuilloSGit/profile-card"> aquí &#10065;</a>
+
+<b>Guillermo Andrada<b>
