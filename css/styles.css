@@ -1,7 +1,7 @@
 html {
   font-weight: 500;
-  background: radial-gradient(ellipse at top, #a1f867, transparent),
-    radial-gradient(ellipse at bottom, #59e409, transparent);
+  background: radial-gradient(ellipse at top, #67e7f8, transparent),
+    radial-gradient(ellipse at bottom, #53e4e4, transparent);
 }
 
 html::after,
@@ -9,12 +9,12 @@ html::before {
   content: "";
   position: fixed;
   display: block;
-  background-color: rgb(138, 233, 154);
+  background-color: rgb(138, 230, 233);
   border-radius: 50%;
   width: 100vmin;
   height: 100vmin;
   z-index: -1;
-  box-shadow: inset 12px 10px 80px rgb(34, 104, 2);
+  box-shadow: inset 12px 10px 80px rgb(20, 67, 105);
 }
 
 html::before {
