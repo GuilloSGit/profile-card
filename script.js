@@ -5,4 +5,4 @@ function age(dateString) {
             edadActual = now.getFullYear() - birth.getFullYear() - beforeBirth;
         }
         age('12/13/1986');
-        document.getElementById("edad").innerHTML = edadActual;
+        document.getElementById("edad").innerHTML = `<span class="card__text card__text--light">(`+edadActual+`)</span>`;
